@@ -9,13 +9,13 @@ Change the value in the file template/config.ini
 >[searx]  
 >url = "https://your_url_searx/"  
   
-**Use Public Instances**
-[https://searx.space/](https://searx.space/)
+**Use Public Instances**  
+[https://searx.space/](https://searx.space/)  
   
   
 **About Searx** Cool Meta Search  
-[https://searx.me/](http://https://searx.me/)   
+[https://searx.me/](http://https://searx.me/)     
   
   
-**Screenshot of searx for NextCloud**  
+**Screenshot of NextCloud**  
 ![Alt text](https://github.com/guylux/searx/blob/master/nextcloud-searx.png?raw=true "Title")
