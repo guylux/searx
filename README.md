@@ -4,7 +4,7 @@
 Place this app in **nextcloud/apps/**  
   
 **Configuration**  
-Change the value in the file template/config.ini
+Change the value in the file **templates/config.ini**
 
 >[searx]  
 >url = "https://your_url_searx/"  
