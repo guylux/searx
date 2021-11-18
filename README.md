@@ -9,7 +9,7 @@ Change the value in the file template/config.ini
 >[searx]  
 >url = "https://your_url_searx/"  
   
-**Use Public Instances**  
+**Public Instances**  
 [https://searx.space/](https://searx.space/)  
   
   
