@@ -1,6 +1,9 @@
 # Searx for nexcloud
+
+**Installation**
 Place this app in **nextcloud/apps/**
 
+**Configuration** 
 Change the value in the file template/config.ini 
 
 **Screenshot**
