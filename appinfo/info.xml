@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>searx</id>
+    <name>Searx</name>
+    <summary>searx</summary>
+    <description><![CDATA[app for searx]]></description>
+    <version>0.0.1</version>
+    <licence>agpl</licence>
+    <author mail="christophe@christophe-robert.org" homepage="https://www.christophe-robert.org">robert</author>
+    <namespace>Searx</namespace>
+    <category>search</category>
+    <bugs>https://www.christophe-robert.org</bugs>
+    <dependencies>
+        <nextcloud min-version="12" max-version="12"/>
+    </dependencies>
+    <navigations>
+        <navigation>
+            <name>Searx</name>
+            <route>searx.page.index</route>
+        </navigation>
+    </navigations>
+</info>
