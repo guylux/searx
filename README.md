@@ -14,7 +14,7 @@ Change the value in the file template/config.ini
   
   
 **About Searx** Cool Meta Search  
-[https://searx.me/](http://https://searx.me/)     
+[https://searx.me/](https://searx.me/)     
   
   
 **Screenshot of NextCloud**  
