@@ -20,4 +20,4 @@ Change the value in the file **templates/config.ini**
 **Screenshot of NextCloud**  
 ![Alt text](https://github.com/guylux/searx/blob/master/nextcloud-searx.png?raw=true "Title")
 
-.
+..
